@@ -25,7 +25,7 @@
                     </li>
 
                     <li>
-                        <a href="#"><i class="fa fa-edit "></i>Default Value Assignation</a>
+                        <a href="DefaultValueAssignation.jsp"><i class="fa fa-edit "></i>Default Value Assignation</a>
                     </li>
                     <li>
                         <a href="#"><i class="fa fa-table "></i>My Link Four</a>
